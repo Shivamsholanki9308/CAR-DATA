@@ -1,1 +1,2 @@
-# CAR-DATA
+A car is a type of vehicle that is designed for transportation on roads. It typically has four wheels and is powered by an internal combustion engine or an electric motor. Cars come in various shapes and sizes, from compact city cars to large luxury sedans and SUVs.
+The exterior of a car is typically made of metal or composite materials and can be designed with various features such as headlights, taillights, mirrors, and aerodynamic curves. The interior of a car includes seats, a dashboard with various controls and gauges, and sometimes additional features such as a sound system, climate control, and navigation system.
